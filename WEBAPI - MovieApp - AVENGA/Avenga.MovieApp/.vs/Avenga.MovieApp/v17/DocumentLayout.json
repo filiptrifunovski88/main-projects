@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECA364-457F-4DCC-AAEB-51573F67544B}|Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp.dataaccess\\avenga.movieapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80ECA364-457F-4DCC-AAEB-51573F67544B}|Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj|solutionrelative:avenga.movieapp.dataaccess\\avenga.movieapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80ECA364-457F-4DCC-AAEB-51573F67544B}|Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp.dataaccess\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80ECA364-457F-4DCC-AAEB-51573F67544B}|Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj|solutionrelative:avenga.movieapp.dataaccess\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|solutionrelative:avenga.movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|solutionrelative:avenga.movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp\\logs\\log-202510060310.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|solutionrelative:avenga.movieapp\\logs\\log-202510060310.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|solutionrelative:avenga.movieapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|d:\\qinshift\\proekti\\asp.net-webapi\\class15\\avenga.movieapp\\avenga.movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C3679-54E5-4CD0-9B73-1F27BA96C792}|Avenga.MovieApp\\Avenga.MovieApp.csproj|solutionrelative:avenga.movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Avenga.MovieApp.DataAccess",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj",
+              "RelativeToolTip": "Avenga.MovieApp.DataAccess\\Avenga.MovieApp.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T01:48:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp.DataAccess\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Avenga.MovieApp.DataAccess\\IMovieRepository.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp.DataAccess\\IMovieRepository.cs",
+              "RelativeToolTip": "Avenga.MovieApp.DataAccess\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:45:47.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "Avenga.MovieApp\\Program.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\Program.cs",
+              "RelativeToolTip": "Avenga.MovieApp\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:40:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Avenga.MovieApp\\appsettings.json",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\appsettings.json",
+              "RelativeToolTip": "Avenga.MovieApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T01:40:10.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log-202510060310.txt",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\logs\\log-202510060310.txt",
+              "RelativeDocumentMoniker": "Avenga.MovieApp\\logs\\log-202510060310.txt",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\logs\\log-202510060310.txt",
+              "RelativeToolTip": "Avenga.MovieApp\\logs\\log-202510060310.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-06T01:39:41.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Avenga.MovieApp\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Avenga.MovieApp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:39:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Avenga.MovieApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\ASP.NET-WEBAPI\\Class15\\Avenga.MovieApp\\Avenga.MovieApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Avenga.MovieApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAswK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:38:11.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

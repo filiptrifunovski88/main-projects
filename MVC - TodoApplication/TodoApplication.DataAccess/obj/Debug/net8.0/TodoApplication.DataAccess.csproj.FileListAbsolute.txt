@@ -1,0 +1,30 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.DataAccess.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoAppl.EEE91F3E.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\refint\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.DataAccess\obj\Debug\net8.0\ref\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.DataAccess.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoAppl.EEE91F3E.Up2Date
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\refint\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.DataAccess\obj\Debug\net8.0\ref\TodoApplication.DataAccess.dll

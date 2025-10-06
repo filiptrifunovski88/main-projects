@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoApplication.Services/1.0.0": {
+        "dependencies": {
+          "TodoApplication.DataAccess": "1.0.0",
+          "TodoApplication.Dtos": "1.0.0",
+          "TodoApplication.Mapper": "1.0.0"
+        },
+        "runtime": {
+          "TodoApplication.Services.dll": {}
+        }
+      },
+      "TodoApplication.DataAccess/1.0.0": {
+        "dependencies": {
+          "TodoApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TodoApplication.DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TodoApplication.Domain/1.0.0": {
+        "runtime": {
+          "TodoApplication.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TodoApplication.Dtos/1.0.0": {
+        "runtime": {
+          "TodoApplication.Dtos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TodoApplication.Mapper/1.0.0": {
+        "dependencies": {
+          "TodoApplication.Domain": "1.0.0",
+          "TodoApplication.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "TodoApplication.Mapper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoApplication.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApplication.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApplication.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApplication.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

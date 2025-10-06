@@ -1,0 +1,82 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\appsettings.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.staticwebassets.runtime.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.staticwebassets.endpoints.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.exe
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Services.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\bin\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.RazorAssemblyInfo.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.RazorAssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\scopedcss\bundle\TodoApplication.styles.css
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\scopedcss\projectbundle\TodoApplication.bundle.scp.css
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoAppl.F6BA85CC.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\refint\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\TodoApplication.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication\obj\Debug\net8.0\ref\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\appsettings.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.staticwebassets.endpoints.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.staticwebassets.runtime.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.exe
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Services.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\bin\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.RazorAssemblyInfo.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.RazorAssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\scopedcss\bundle\TodoApplication.styles.css
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\scopedcss\projectbundle\TodoApplication.bundle.scp.css
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoAppl.F6BA85CC.Up2Date
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\refint\TodoApplication.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\TodoApplication.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication\obj\Debug\net8.0\ref\TodoApplication.dll

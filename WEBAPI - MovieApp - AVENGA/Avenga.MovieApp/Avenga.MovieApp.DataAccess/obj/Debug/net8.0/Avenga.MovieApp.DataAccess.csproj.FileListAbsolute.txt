@@ -1,0 +1,17 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\bin\Debug\net8.0\Avenga.MovieApp.DataAccess.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\bin\Debug\net8.0\Avenga.MovieApp.DataAccess.runtimeconfig.json
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\bin\Debug\net8.0\Avenga.MovieApp.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\bin\Debug\net8.0\Avenga.MovieApp.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\bin\Debug\net8.0\Avenga.MovieApp.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\bin\Debug\net8.0\Avenga.MovieApp.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.M.1784F713.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\refint\Avenga.MovieApp.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\Avenga.MovieApp.DataAccess.genruntimeconfig.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.DataAccess\obj\Debug\net8.0\ref\Avenga.MovieApp.DataAccess.dll

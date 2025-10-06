@@ -1,0 +1,22 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\bin\Debug\net8.0\TodoApplication.Domain.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\refint\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Domain\obj\Debug\net8.0\ref\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\bin\Debug\net8.0\TodoApplication.Domain.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\refint\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Domain\obj\Debug\net8.0\ref\TodoApplication.Domain.dll

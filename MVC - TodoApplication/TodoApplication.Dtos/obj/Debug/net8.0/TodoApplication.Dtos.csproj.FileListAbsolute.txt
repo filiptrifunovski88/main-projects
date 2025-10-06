@@ -1,0 +1,22 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\bin\Debug\net8.0\TodoApplication.Dtos.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\refint\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Dtos\obj\Debug\net8.0\ref\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\bin\Debug\net8.0\TodoApplication.Dtos.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\refint\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Dtos\obj\Debug\net8.0\ref\TodoApplication.Dtos.dll

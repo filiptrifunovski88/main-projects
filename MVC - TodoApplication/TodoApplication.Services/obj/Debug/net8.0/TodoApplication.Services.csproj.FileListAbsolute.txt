@@ -1,0 +1,42 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Services.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Services.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoAppl.6C033B10.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\refint\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Services\obj\Debug\net8.0\ref\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Services.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Services.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.DataAccess.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.DataAccess.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoAppl.6C033B10.Up2Date
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\refint\TodoApplication.Services.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\TodoApplication.Services.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Services\obj\Debug\net8.0\ref\TodoApplication.Services.dll

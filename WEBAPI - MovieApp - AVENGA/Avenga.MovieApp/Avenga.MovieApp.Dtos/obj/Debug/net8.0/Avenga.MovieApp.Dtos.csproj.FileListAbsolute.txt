@@ -1,0 +1,15 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\bin\Debug\net8.0\Avenga.MovieApp.Dtos.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\bin\Debug\net8.0\Avenga.MovieApp.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\bin\Debug\net8.0\Avenga.MovieApp.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\bin\Debug\net8.0\Avenga.MovieApp.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\bin\Debug\net8.0\Avenga.MovieApp.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.M.8BFD3490.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\refint\Avenga.MovieApp.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\Avenga.MovieApp.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Dtos\obj\Debug\net8.0\ref\Avenga.MovieApp.Dtos.dll

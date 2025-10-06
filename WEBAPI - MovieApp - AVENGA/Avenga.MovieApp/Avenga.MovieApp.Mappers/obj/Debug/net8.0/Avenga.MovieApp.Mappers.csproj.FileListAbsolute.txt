@@ -1,0 +1,17 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Mappers.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Mappers.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Mappers.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\bin\Debug\net8.0\Avenga.MovieApp.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.M.C0591FFE.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\refint\Avenga.MovieApp.Mappers.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\Avenga.MovieApp.Mappers.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-WEBAPI\Class15\Avenga.MovieApp\Avenga.MovieApp.Mappers\obj\Debug\net8.0\ref\Avenga.MovieApp.Mappers.dll

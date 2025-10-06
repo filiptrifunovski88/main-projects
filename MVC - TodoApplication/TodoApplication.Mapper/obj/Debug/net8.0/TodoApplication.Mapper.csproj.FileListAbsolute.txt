@@ -1,0 +1,34 @@
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Mapper.deps.json
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoAppl.A6A3C4A1.Up2Date
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\refint\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\ASP.NET-MVC\Class08 - Workshop\TodoApplication.Mapper\obj\Debug\net8.0\ref\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Mapper.deps.json
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Domain.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Dtos.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Domain.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\bin\Debug\net8.0\TodoApplication.Dtos.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.csproj.AssemblyReference.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.AssemblyInfoInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.AssemblyInfo.cs
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.csproj.CoreCompileInputs.cache
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoAppl.A6A3C4A1.Up2Date
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\refint\TodoApplication.Mapper.dll
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\TodoApplication.Mapper.pdb
+D:\QINSHIFT\PROEKTI\GITHUB\TodoApplication\TodoApplication.Mapper\obj\Debug\net8.0\ref\TodoApplication.Mapper.dll
