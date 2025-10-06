@@ -1,0 +1,146 @@
+.wrapper {
+  padding: 60px 20px;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f9fbff;
+  color: #333;
+  margin: 0; /* од body margin */
+}
+
+.section-title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  color: black;
+}
+
+.section-underline {
+  width: 40px;
+  height: 4px;
+  background-color: #3b82f6;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+.section-title::after {
+  content: none;
+  display: block;
+  width: 40px;
+  height: 4px;
+  background-color: #3b82f6;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+@media (min-width: 768px) {
+  .cards {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+}
+
+@media only screen and (max-width: 900px) and (orientation: landscape) {
+  .cards {
+    flex-direction: row;
+    gap: 20px;
+  }
+  .card {
+    width: 50%;
+    padding: 24px 10px;
+  }
+  .section-title-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    width: 100%;
+  }
+  .section-title {
+    display: block !important;
+    text-align: center !important;
+    font-size: 2rem !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    margin: 0 auto 0 auto !important;
+    word-break: normal !important;
+    line-break: auto !important;
+    letter-spacing: normal !important;
+  }
+  .section-underline {
+    display: block !important;
+    width: 40px !important;
+    height: 4px !important;
+    background-color: #3b82f6 !important;
+    margin: 10px auto 0 auto !important;
+    border-radius: 2px !important;
+    text-align: center !important;
+  }
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 40px 60px;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.08);
+}
+
+@media (min-width: 768px) {
+  .card {
+    width: calc(50% - 20px);
+  }
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  margin-bottom: 20px;
+}
+
+.icon img {
+  width: 28px;
+  height: 28px;
+}
+
+.icon.blue {
+  background-color: #e0edff;
+}
+
+.icon.green {
+  background-color: #dcfce7;
+}
+
+.card h3 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.section-title {
+  font-size: 2rem !important;
+}
+
+.card p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
